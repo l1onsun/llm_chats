@@ -4,3 +4,6 @@ theme = "rose_pine_moon"
 soft-wrap.enable = true
 soft-wrap.wrap-indicator = "... "
 
+[editor.file-picker]
+git-ignore = false
+hidden = false
